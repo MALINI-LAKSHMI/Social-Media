@@ -20,7 +20,9 @@ MainApp → runs the application
 ## Packages:
 
 bean 
-service 
+
+service
+
 main 
 
 <img width="943" height="565" alt="Screenshot 2026-03-05 231113" src="https://github.com/user-attachments/assets/8d607b3c-cfcf-47db-8bfb-a85804a7dcac" />
